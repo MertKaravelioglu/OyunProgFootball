@@ -16,5 +16,9 @@ https://simmer.io/@Garaveli/oyunprogramlamanosmertkaravelioglu
 * Oyunda bir adet ana menü, ana menü içinde ses ayarı için ayar ekranı, oyun ekranı ve durdurma menüsü bulunmakta. Oyun başladığında müzik çalmaya başlar ve
 oyun içinde herhangi bir oyuncu gol attığında gol efekti çıkmakta. Oyunu oynamak için yukardaki linke tıklayın.
 
+# Kullanılan Siteler
 
-
+* https://freesound.org
+* https://assetstore.unity.com/packages/3d/low-polygon-soccer-ball-84382
+* https://assetstore.unity.com/packages/3d/characters/easy-primitive-people-161846
+* simmer.io
